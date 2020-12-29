@@ -11,9 +11,3 @@ Let's move to the ninth line.
 Made a change to main branch.
 
 Add a new line.
-
-This is a tesing message.
-
-Add Main.
-
-Good.
