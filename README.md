@@ -6,6 +6,6 @@ This is the fifth line.
 
 Here is the seventh line.
 
-Testing Line. -  add test client
+Testing Line. - add testing -  add test client
 
 Add main.
